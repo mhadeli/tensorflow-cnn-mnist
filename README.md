@@ -12,11 +12,6 @@ Getting Started
 * TensorFlow 2.3+
 * Keras 2.3+
 
-### Installation
-
-1. Clone the repository: `git clone https://github.com/your-username/mnist-classification.git`
-2. Install the required packages: `pip install -r requirements.txt`
-
 ### Model Architecture
 
 The model architecture consists of the following layers:
