@@ -1,7 +1,9 @@
 MNIST Classification with TensorFlow and Keras
 =====================================================
 
-This repository contains a simple MNIST classification model using TensorFlow and Keras.
+
+This repository contains a TensorFlow and Keras implementation of a convolutional neural network (CNN) for image classification on the MNIST dataset. The code is written in Python (Jupyter notebook) and uses the TensorFlow and Keras libraries to build and train the model.
+
 
 Getting Started
 ---------------
@@ -11,6 +13,15 @@ Getting Started
 * Python 3.6+
 * TensorFlow 2.3+
 * Keras 2.3+
+
+## Code Structure
+
+The code is organized into the following files:
+
+* `CNNs-improved.ipynb`: The main Python script that loads the MNIST dataset, builds and trains the CNN model, and evaluates its performance.
+* * `cnns-mnist-digit-recognition.ipynb`: This notebook is the the base note book and I used it from [Kaggle](https://www.kaggle.com/code/muhammadibrahimqasmi/unveiling-cnns-for-mnist-digit-recognition).
+* `README.md`: This file, which provides an overview of the project and its requirements.
+
 
 ### Model Architecture
 
