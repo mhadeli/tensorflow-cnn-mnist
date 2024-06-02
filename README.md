@@ -19,7 +19,7 @@ Getting Started
 The code is organized into the following files:
 
 * `CNNs-improved.ipynb`: The main Python script that loads the MNIST dataset, builds and trains the CNN model, and evaluates its performance.
-* * `cnns-mnist-digit-recognition.ipynb`: This notebook is the the base note book and I used it from [Kaggle](https://www.kaggle.com/code/muhammadibrahimqasmi/unveiling-cnns-for-mnist-digit-recognition).
+* `cnns-mnist-digit-recognition.ipynb`: This notebook is the the base note book and I used it from [Kaggle](https://www.kaggle.com/code/muhammadibrahimqasmi/unveiling-cnns-for-mnist-digit-recognition).
 * `README.md`: This file, which provides an overview of the project and its requirements.
 
 
